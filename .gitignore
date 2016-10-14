@@ -26,3 +26,18 @@
 *.exe
 *.out
 *.app
+
+# Testing icc
+Testing/*/*.icc
+Testing/IccApplyNamedCmm
+Testing/IccApplyProfiles
+Testing/IccDumpProfile
+Testing/IccFromXml
+Testing/IccRoundTrip
+Testing/IccSpecSepToTiff
+Testing/IccTiffDump
+Testing/IccToXml
+
+# Xcode deps
+Build/XCode/libtiff/*.h*
+Build/XCode/libxml/*.h*

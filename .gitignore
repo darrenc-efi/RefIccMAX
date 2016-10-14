@@ -41,3 +41,11 @@ Testing/IccToXml
 # Xcode deps
 Build/XCode/libtiff/*.h*
 Build/XCode/libxml/*.h*
+# Xcode build files
+**/build
+
+# copied code
+Tools/CmdLine/IccSpecSepToTiff/TiffImg.cpp
+Tools/CmdLine/IccSpecSepToTiff/TiffImg.h
+Tools/CmdLine/IccTiffDump/TiffImg.cpp
+Tools/CmdLine/IccTiffDump/TiffImg.h

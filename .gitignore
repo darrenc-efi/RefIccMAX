@@ -43,6 +43,7 @@ Build/XCode/libtiff/*.h*
 Build/XCode/libxml/*.h*
 # Xcode build files
 **/build
+**/xcuserdata
 
 # copied code
 Tools/CmdLine/IccSpecSepToTiff/TiffImg.cpp
